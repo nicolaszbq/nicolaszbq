@@ -1,17 +1,15 @@
-## 🦾 About Me
+## 👨‍💻 About Me
 Hello! I'm **Nicolas de Oliveira**, currently pursuing a degree in Computer Science at UNIPAC Barbacena. After years of dedicated focus on building a technology career, I unexpectedly found my true calling in programming. This pivot was decisive, marked by my victory in the university's Programming Marathon during my freshman semester—a clear sign that I've found my professional direction.
 
 *"Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Allan Turing*
 
 ###
-
-<img align="right" height="150" src="https://media.tenor.com/7xlDJtzqqMYAAAAi/club-penguin.gif"  />
-
+<img align="right" height="150" src="https://media.tenor.com/7xlDJtzqqMYAAAAi/club-penguin.gif"/>
 ###
 
 
 [![Barbacena, Brazil](https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena%2C%20Brazil-222831?style=for-the-badge&logo=homeassistant&logoColor=white)](https://camo.githubusercontent.com/0b7d4fe3df624d1c43f16b05e85c18098f2a565d9f1f8a446cac69cbc48c6b5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f254630253946253843253844253230253230426172626163656e612532432532304272617a696c2d323232383331%3F7374796c653d666f722d7468652d6261646765%266c6f676f3d686f6d65617373697374616e74%266c6f676f436f6c6f723d7768697465)
-[![GitHub views](https://komarev.com/ghpv/?username=hrsallan&style=for-the-badge&color=222831)](https://komarev.com/ghpv/?username=hrsallan&style=for-the-badge&color=222831)
+[![GitHub views](https://komarev.com/ghpv/?username=nicolaszbq&style=for-the-badge&color=222831)](https://komarev.com/ghpv/?username=nicolaszbq&style=for-the-badge&color=222831)
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,html,css,git)](https://skillicons.dev/icons?i=java,c,html,css,git)
 
@@ -19,7 +17,7 @@ Hello! I'm **Nicolas de Oliveira**, currently pursuing a degree in Computer Scie
 * 📚 **Computer Science Student:** UNIPAC | Barbacena, Brazil
 * 🏆 **Programming Marathon Champion:** Won the university's competition (2025-1) in my first semester
 * ⚔ **Face and solve problems:** Always looking for soluctions when working.
-* 💡 **Future-Ready:** Focused and prepared to tackle the future of technology.
+* 💡 **Continuous-Improvement:** Continuous looking to be better while working.
 
 ## 📈 Github Stats
 
