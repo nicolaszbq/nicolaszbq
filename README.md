@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Hello! I'm **Nicolas de Oliveira**, currently pursuing a degree in Computer Science at UNIPAC Barbacena. After years of dedicated focus on building a technology career, I unexpectedly found my true calling in programming. This pivot was decisive, marked by my victory in the university's Programming Marathon during my freshman semester—a clear sign that I've found my professional direction.
+Hello! I'm **Nicolas de Oliveira**, currently pursuing a degree in Computer Science at UNIPAC Barbacena. I've benn focused on building a technology career, since 2020 when I unexpectedly found my true calling in programming. This pivot was decisive, marked by my victory in the university's Programming Marathon during my freshman semester—a clear sign that I've found my professional direction.
 
 *"Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Allan Turing*
 
